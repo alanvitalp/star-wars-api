@@ -33,3 +33,10 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# Ignore artifacts:
+
+build
+coverage
+.next
+node_modules
